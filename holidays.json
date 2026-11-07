@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-07T00:00:00Z",
+  "holidays": [
+    {
+      "bs_date": "2083-02-15",
+      "ad_date": "2026-05-29",
+      "year_bs": 2083,
+      "name_ne": "गणतन्त्र दिवस",
+      "name_en": "Republic Day",
+      "is_public_holiday": true,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-06-03",
+      "ad_date": "2026-09-19",
+      "year_bs": 2083,
+      "name_ne": "संविधान दिवस",
+      "name_en": "Constitution Day",
+      "is_public_holiday": true,
+      "hide_name": false
+    }
+  ]
+}
