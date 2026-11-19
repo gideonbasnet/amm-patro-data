@@ -1,7 +1,25 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T00:00:00Z",
+  "generated_at": "2026-11-19T00:00:00Z",
   "holidays": [
+    {
+      "bs_date": "2083-01-01",
+      "ad_date": "2026-04-14",
+      "year_bs": 2083,
+      "name_ne": "नयाँ वर्ष",
+      "name_en": "New Year",
+      "is_public_holiday": true,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-01-18",
+      "ad_date": "2026-05-01",
+      "year_bs": 2083,
+      "name_ne": "अन्तर्राष्ट्रिय श्रमिक दिवस / चण्डी पूर्णिमा / बुद्ध जयन्ती / उभौली पर्व",
+      "name_en": "International Labour Day / Chandi Purnima / Buddha Jayanti / Ubhauli Parwa",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
     {
       "bs_date": "2083-02-15",
       "ad_date": "2026-05-29",
@@ -12,6 +30,42 @@
       "hide_name": false
     },
     {
+      "bs_date": "2083-05-12",
+      "ad_date": "2026-08-28",
+      "year_bs": 2083,
+      "name_ne": "रक्षा बन्धन",
+      "name_en": "Raksha Bandhan",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-05-13",
+      "ad_date": "2026-08-29",
+      "year_bs": 2083,
+      "name_ne": "गाईजात्रा",
+      "name_en": "Gai Jatra",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-05-19",
+      "ad_date": "2026-09-04",
+      "year_bs": 2083,
+      "name_ne": "श्रीकृष्ण जन्माष्टमी / गौरा पर्व",
+      "name_en": "Shree Krishna Janmashtami / Gaura Parwa",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-05-29",
+      "ad_date": "2026-09-14",
+      "year_bs": 2083,
+      "name_ne": "हरितालिका (तीज) व्रत",
+      "name_en": "Haritalika (Teej) Brata",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
       "bs_date": "2083-06-03",
       "ad_date": "2026-09-19",
       "year_bs": 2083,
@@ -19,6 +73,303 @@
       "name_en": "Constitution Day",
       "is_public_holiday": true,
       "hide_name": false
+    },
+    {
+      "bs_date": "2083-06-09",
+      "ad_date": "2026-09-25",
+      "year_bs": 2083,
+      "name_ne": "इन्द्रजात्रा",
+      "name_en": "Indra Jatra",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-06-18",
+      "ad_date": "2026-10-04",
+      "year_bs": 2083,
+      "name_ne": "जितिया पर्व",
+      "name_en": "Jitiya Parwa",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-06-25",
+      "ad_date": "2026-10-11",
+      "year_bs": 2083,
+      "name_ne": "घटस्थापना",
+      "name_en": "Ghatasthapana",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-06-31",
+      "ad_date": "2026-10-17",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-01",
+      "ad_date": "2026-10-18",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-02",
+      "ad_date": "2026-10-19",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-03",
+      "ad_date": "2026-10-20",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-04",
+      "ad_date": "2026-10-21",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-05",
+      "ad_date": "2026-10-22",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-06",
+      "ad_date": "2026-10-23",
+      "year_bs": 2083,
+      "name_ne": "दशैँ बिदा",
+      "name_en": "Dashain Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-22",
+      "ad_date": "2026-11-08",
+      "year_bs": 2083,
+      "name_ne": "तिहार बिदा",
+      "name_en": "Tihar Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-23",
+      "ad_date": "2026-11-09",
+      "year_bs": 2083,
+      "name_ne": "तिहार बिदा",
+      "name_en": "Tihar Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-24",
+      "ad_date": "2026-11-10",
+      "year_bs": 2083,
+      "name_ne": "तिहार बिदा",
+      "name_en": "Tihar Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-25",
+      "ad_date": "2026-11-11",
+      "year_bs": 2083,
+      "name_ne": "तिहार बिदा",
+      "name_en": "Tihar Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-25",
+      "ad_date": "2026-11-11",
+      "year_bs": 2083,
+      "name_ne": "फाल्गुनन्द जयन्ती",
+      "name_en": "Falgunanda Jayanti",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-26",
+      "ad_date": "2026-11-12",
+      "year_bs": 2083,
+      "name_ne": "तिहार बिदा",
+      "name_en": "Tihar Holiday",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-29",
+      "ad_date": "2026-11-15",
+      "year_bs": 2083,
+      "name_ne": "छठ पर्व",
+      "name_en": "Chhath Parwa",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-08-17",
+      "ad_date": "2026-12-03",
+      "year_bs": 2083,
+      "name_ne": "अन्तर्राष्ट्रिय अपाङ्गता दिवस",
+      "name_en": "International Day of Persons with Disabilities",
+      "is_public_holiday": false,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-09-09",
+      "ad_date": "2026-12-24",
+      "year_bs": 2083,
+      "name_ne": "धान्य पूर्णिमा / उधौली पर्व / योमरी पुन्ही",
+      "name_en": "Dhanya Purnima / Udhauli Parwa / Yomari Punhi",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-09-10",
+      "ad_date": "2026-12-25",
+      "year_bs": 2083,
+      "name_ne": "क्रिसमस डे",
+      "name_en": "Christmas Day",
+      "is_public_holiday": true,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-09-15",
+      "ad_date": "2026-12-30",
+      "year_bs": 2083,
+      "name_ne": "तमु ल्होसार",
+      "name_en": "Tamu Lhosar",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-09-27",
+      "ad_date": "2027-01-11",
+      "year_bs": 2083,
+      "name_ne": "पृथ्वी जयन्ती / राष्ट्रिय एकता दिवस",
+      "name_en": "Prithvi Jayanti / National Unity Day",
+      "is_public_holiday": true,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-10-01",
+      "ad_date": "2027-01-15",
+      "year_bs": 2083,
+      "name_ne": "माघी पर्व / माघे संक्रान्ति",
+      "name_en": "Maghi Parwa / Maghe Sankranti",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-10-16",
+      "ad_date": "2027-01-30",
+      "year_bs": 2083,
+      "name_ne": "शहीद दिवस",
+      "name_en": "Martyrs' Day",
+      "is_public_holiday": true,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-10-24",
+      "ad_date": "2027-02-07",
+      "year_bs": 2083,
+      "name_ne": "सोनाम ल्होसार",
+      "name_en": "Sonam Lhosar",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-10-28",
+      "ad_date": "2027-02-11",
+      "year_bs": 2083,
+      "name_ne": "वसन्त पञ्चमी",
+      "name_en": "Basanta Panchami",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-11-07",
+      "ad_date": "2027-02-19",
+      "year_bs": 2083,
+      "name_ne": "राष्ट्रिय प्रजातन्त्र दिवस",
+      "name_en": "National Democracy Day",
+      "is_public_holiday": true,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-11-22",
+      "ad_date": "2027-03-06",
+      "year_bs": 2083,
+      "name_ne": "महाशिवरात्रि",
+      "name_en": "Maha Shivaratri",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-11-24",
+      "ad_date": "2027-03-08",
+      "year_bs": 2083,
+      "name_ne": "अन्तर्राष्ट्रिय महिला दिवस",
+      "name_en": "International Women's Day",
+      "is_public_holiday": false,
+      "hide_name": false
+    },
+    {
+      "bs_date": "2083-11-25",
+      "ad_date": "2027-03-09",
+      "year_bs": 2083,
+      "name_ne": "ग्याल्पो ल्होसार",
+      "name_en": "Gyalpo Lhosar",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-12-07",
+      "ad_date": "2027-03-21",
+      "year_bs": 2083,
+      "name_ne": "फागु पूर्णिमा",
+      "name_en": "Fagu Purnima",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-12-08",
+      "ad_date": "2027-03-22",
+      "year_bs": 2083,
+      "name_ne": "तराई होली",
+      "name_en": "Terai Holi",
+      "is_public_holiday": false,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-12-23",
+      "ad_date": "2027-04-06",
+      "year_bs": 2083,
+      "name_ne": "घोडेजात्रा",
+      "name_en": "Ghode Jatra",
+      "is_public_holiday": false,
+      "hide_name": true
     }
   ]
 }
