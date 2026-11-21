@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T00:00:00Z",
+  "generated_at": "2026-11-21T00:00:00Z",
   "holidays": [
     {
       "bs_date": "2083-01-01",
@@ -17,6 +17,15 @@
       "year_bs": 2083,
       "name_ne": "अन्तर्राष्ट्रिय श्रमिक दिवस / चण्डी पूर्णिमा / बुद्ध जयन्ती / उभौली पर्व",
       "name_en": "International Labour Day / Chandi Purnima / Buddha Jayanti / Ubhauli Parwa",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-02-14",
+      "ad_date": "2026-05-28",
+      "year_bs": 2083,
+      "name_ne": "बकर इद (ईद-उल-अजहा)",
+      "name_en": "Bakra Eid (Eid al-Adha)",
       "is_public_holiday": true,
       "hide_name": true
     },
@@ -195,18 +204,18 @@
       "bs_date": "2083-07-25",
       "ad_date": "2026-11-11",
       "year_bs": 2083,
-      "name_ne": "तिहार बिदा",
-      "name_en": "Tihar Holiday",
-      "is_public_holiday": true,
+      "name_ne": "फाल्गुनन्द जयन्ती",
+      "name_en": "Falgunanda Jayanti",
+      "is_public_holiday": false,
       "hide_name": true
     },
     {
       "bs_date": "2083-07-25",
       "ad_date": "2026-11-11",
       "year_bs": 2083,
-      "name_ne": "फाल्गुनन्द जयन्ती",
-      "name_en": "Falgunanda Jayanti",
-      "is_public_holiday": false,
+      "name_ne": "तिहार बिदा",
+      "name_en": "Tihar Holiday",
+      "is_public_holiday": true,
       "hide_name": true
     },
     {
@@ -224,6 +233,15 @@
       "year_bs": 2083,
       "name_ne": "छठ पर्व",
       "name_en": "Chhath Parwa",
+      "is_public_holiday": true,
+      "hide_name": true
+    },
+    {
+      "bs_date": "2083-07-30",
+      "ad_date": "2026-11-16",
+      "year_bs": 2083,
+      "name_ne": "छठ पर्वपछिको सार्वजनिक बिदा",
+      "name_en": "Public holiday after Chhath",
       "is_public_holiday": true,
       "hide_name": true
     },
